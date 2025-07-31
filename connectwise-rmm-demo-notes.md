@@ -115,8 +115,7 @@ A dynamic group reports a failed patch deployment. A matching critical CVE is li
 4. Cross-reference remediation guidance from ConnectWise.
 5. Run a manual remediation script to apply the missing patch.
 6. Recheck status and confirm patch success.
-7. If failure persists, escalate to Tier 2 support.
-8. Document actions, timestamps, and outcome in the ticketing platform.
+7. Document actions, timestamps, and outcome in the ticketing platform.
 
 ---
 
