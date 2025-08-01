@@ -52,7 +52,7 @@ The results were saved to a text file inside `C:\RMMLogs`.
 ### Script File
 
 The full script is available here:  
-[check-pending-updates.ps1](./check-pending-updates.ps1.txt)
+[check-pending-updates.ps1](./check-pending-updates.ps1)
 
 ## Why This Matters
 
