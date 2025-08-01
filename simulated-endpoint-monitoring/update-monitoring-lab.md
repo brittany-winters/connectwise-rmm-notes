@@ -49,7 +49,11 @@ The results were saved to a text file inside `C:\RMMLogs`.
 
 ---
 
+### Script File
+
+The full script is available here:  
+[check-pending-updates.ps1](./check-pending-updates.ps1)
+
 ## Why This Matters
 
-This simulates what RMM tools like ConnectWise or N-central do behind the scenes — check patch status, create logs, and act on missing updates.  
-It’s a basic but realistic way to demonstrate endpoint visibility and scripting capability without needing enterprise software.
+This simulates what RMM tools like ConnectWise or N-central do behind the scenes; check patch status, create logs, and act on missing updates. It’s a basic, realistic way to demonstrate endpoint visibility and scripting capability without needing enterprise software.
