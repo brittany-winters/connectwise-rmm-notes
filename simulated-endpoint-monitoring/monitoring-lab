@@ -41,4 +41,4 @@ Log file contents:
 
 This screenshot shows the script successfully scanning for pending Windows updates using the PSWindowsUpdate module.
 
-![PowerShell update scan output](./update.png)
+![PowerShell update scan output](../update.png)
