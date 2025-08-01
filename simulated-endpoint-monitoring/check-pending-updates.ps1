@@ -15,5 +15,6 @@ $logFile = "$logDir\update-check_$timestamp.txt"
 
 # Run update check and write results
 "[$(Get-Date)] Running update check..." | Out-File -FilePath $logFile
-Get-WindowsUpdate | Out-File -Append -FilePath $logFile
+Get-WindowsUpdate | Out-File -Append -FilePath $logFile -ForegroundColor Green
+
 
