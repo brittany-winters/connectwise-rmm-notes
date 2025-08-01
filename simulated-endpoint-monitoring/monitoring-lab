@@ -41,4 +41,4 @@ Log file contents:
 
 This screenshot shows the script successfully scanning for pending Windows updates using the PSWindowsUpdate module.
 
-![PowerShell update scan output]
+![PowerShell update scan output] (https://raw.github.com/brittany-winters/connectwise-rmm-notes/blob/main/simulated-endpoint-monitoring/powershell-output.png?raw=true)
