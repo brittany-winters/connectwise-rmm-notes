@@ -18,11 +18,11 @@ It writes the results to a timestamped `.txt` file in `C:\RMMLogs`.
 
 ---
 
-## Sample Log Output
-[08/01/2025 14:42:50] System Performance Check
-CPU Load: 65%
-RAM Used: 1.38 GB / 2.00 GB
-System Uptime: 0.22 hours
+## Log Output
+- [08/01/2025 14:42:50] System Performance Check
+- CPU Load: 65%
+- RAM Used: 1.38 GB / 2.00 GB
+- System Uptime: 0.22 hours
 
 ---
 
