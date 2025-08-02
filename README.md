@@ -1,10 +1,10 @@
-# Endpoint Security & RMM Lab
+# Endpoint Security
 
 This repo explores how remote monitoring and management (RMM) tools support endpoint security through automation, scripting, and policy-driven operations. It includes hands-on simulations, script-based monitoring workflows, and notes from live product demos.
 
 ---
 
-## 🔍 What This Covers
+## What This Covers
 
 ### 1. ConnectWise RMM Demo Notes
 
@@ -30,7 +30,17 @@ Includes screenshots and a working script to demonstrate how endpoint monitoring
 
 ---
 
+### 3. Diagnostics Lab
+
+- `diagnostics-lab/diagnostics-lab.md`  
+  Simulates a support workflow for investigating endpoint performance issues using PowerShell.  
+  The script logs CPU usage, RAM consumption, and system uptime to a timestamped log file.
+
+Includes real output, screenshots, and analysis of what those metrics mean — and how you'd respond to abnormal values.
+
+---
+
 ## Purpose
 
-This repo is focused on building a deeper understanding of endpoint support tooling, from patching to logging to automation.  
-Each section is designed to mirror the real-world workflows seen in help desk, SOC, and MSP environments.
+This repo is focused on building a deeper understanding of endpoint support tooling, from patching to logging to automation. Each section is designed to mirror the real-world workflows seen in help desk, SOC, and MSP environments.
+
